@@ -1,5 +1,3 @@
 ﻿streamlit
 requests 
- pandas 
- numpy 
- sklearn
+
