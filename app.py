@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import requests
 import numpy as np
-from sklearn.feature_extraction.text import CountVectorizer
+#from sklearn.feature_extraction.text import CountVectorizer
 #k_zo8eo3nr
 
 def fetch_poster(movie_id):
